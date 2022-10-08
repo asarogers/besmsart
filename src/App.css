@@ -1,7 +1,39 @@
 .join-name-container{
     width: 400px;
+    color: white;
+}
+
+.join-birthday-container{
+    width: 400px;
+    color: white;
+}
+
+.join-birthday-container{
+    position: relative;
+    top: 20px;
+    left:0px ;
+}
+
+.join-container{
+    width: 400px;
+    color: white;
+    position: relative;
+    left:0px ;
+    margin-bottom: 25px;
 }
 
 .join-input{
     width: 380px;
+}
+
+ .development-end{
+    top: -120px;
+    left: 400px;
+    height: 2000px;
+    position: absolute;
+    border-right: 1px solid red;
+}
+
+.starter-background{
+    width: 300px;
 }
